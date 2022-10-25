@@ -8,7 +8,7 @@ baseline_networking_dns_repo  = "gcp-it-baseline-networking-dns"
 baseline_gke_infra_repo       = "gcp-it-baseline-gke-infrastructure"
 
 # Enable build on "gcp-it-boostrap-storage-buckets" 
-enable_boostrap_storage_buckets_repo = false
+enable_boostrap_storage_buckets_repo = true
 
 # Enable build on "gcp-it-baseline-networking-vcp" 
 enable_baseline_networking_vpc_repo = false
